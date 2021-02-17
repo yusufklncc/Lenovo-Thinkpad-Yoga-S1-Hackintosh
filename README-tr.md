@@ -8,7 +8,7 @@
 
 <img align="right" src="https://i.loli.net/2021/02/18/yip3eNsQWUZlFkd.png" width="400px" alt="preview">
 
-Lenovo Thinkpad Yoga S1 için OpenCore config dosyası
+Lenovo Thinkpad Yoga S1 için OpenCore config dosyası.
 
 [![macOS](https://img.shields.io/badge/macOS-11.2-orange)](https://www.apple.com/tr/macos/big-sur/)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.6.6-9cf)](https://github.com/acidanthera/OpenCorePkg)
@@ -52,6 +52,7 @@ Lenovo Thinkpad Yoga S1 için OpenCore config dosyası
 ## Neler Çalışmıyor
 
 - Uyku / Uyanma
+- Airdrop
  
 Kesinlikle OpenCore Configrator ile SMBIOS ayarlarınızı yapın çünkü config dosyası her hangi bir SMBIOS bilgisi içermiyor.
   - MacBook Pro 11,1
