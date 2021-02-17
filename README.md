@@ -52,6 +52,7 @@ OpenCore config for Hackintosh OpenCore Lenovo Thinkpad Yoga S1.
 ## What aren't working
 
 - Sleep / Wake
+- Airdrop 
  
 With OpenCore Configrator you should definitely set your SMBIOS settings because the config does not contain SMBIOS information.
   - MacBook Pro 11,1
