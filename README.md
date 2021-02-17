@@ -45,6 +45,7 @@ OpenCore config for Hackintosh OpenCore Lenovo Thinkpad Yoga S1.
 - Intel Wireless 7260 Wi-Fi and Bluetooth (Handoff is working)
 - USB Ports (Port Mapping)
 - Touchpad (14 gestures are working)
+- Touchscreen with gestures
 - Battery status
 - Camera
 - Fn shortcut keys
