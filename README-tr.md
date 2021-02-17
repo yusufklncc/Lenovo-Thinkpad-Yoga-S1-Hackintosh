@@ -45,6 +45,7 @@ Lenovo Thinkpad Yoga S1 için OpenCore config dosyası.
 - Intel Wireless 7260 Wi-Fi and Bluetooth (Handoff çalışıyor)
 - USB Portları (Port Mapping yapıldı)
 - Touchpad (14 harekette çalışıyor)
+- Dokunmatik Ekran hareketlerle birlikte
 - Batarya Durumu
 - Kamera
 - Fn kısayol tuşları
