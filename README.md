@@ -34,6 +34,38 @@ OpenCore config for Hackintosh OpenCore Lenovo Thinkpad Yoga S1.
 | Wi-Fi             | Intel Wireless 7260 |
 | Sound       | Conexant CX20751                       |
 
+## BİOS Settings
+
+- ### Bios Version: GQET63WW (1.43)
+- ### Config
+  - USB
+    - USB UEFI BIOS Support = Enabled
+    - Always On USB = Enabled
+    - Always On USB - Charge in Battery = Disabled
+    - USB 3.0 Mode  = Auto
+  - Power
+    - Intel SpeedStep Technology = Enabled
+    - CPU Power Management = Enabled
+  - CPU
+    - Intel Hyper-Threading Technology = Enabled
+  - Intel Smart Connect 
+    - Disabled
+- ### Security
+  - Password
+    - All Disabled
+  - Security Chip
+    - All Disabled
+  - I/O Port Access
+    - All Enabled
+  - Secure Boot 
+    - All Disabled 
+- ### Startup
+  - UEFI/Legacy Boot = UEFI Only
+    - CSM Support = Yes
+  - Boot Mode = Quick
+
+İf i didn't write don't change anything.
+
 ## What are working
 
 - Turbo boost and CPU frequency stage.
