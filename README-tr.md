@@ -34,6 +34,40 @@ Lenovo Thinkpad Yoga S1 için OpenCore config dosyası.
 | Wi-Fi             | Intel Wireless 7260 |
 | Ses       | Conexant CX20751                       |
 
+
+## BİOS Ayarları:
+
+- Bios Sürümü: GQET63WW (1.43)
+- Config
+  - USB
+    - USB UEFI BIOS Support = Enabled
+    - Always On USB = Enabled
+    - Always On USB - Charge in Battery = Disabled
+    - USB 3.0 Mode  = Auto
+  - Power
+    - Intel SpeedStep Technology = Enabled
+    - CPU Power Management = Enabled
+  - CPU
+    - Intel Hyper-Threading Technology = Enabled
+  - Intel Smart Connect 
+    - Disabled
+- Security
+  - Password
+    - Hepsini Disabled yapın
+  - Security Chip
+    - Hepsini Disabled yapın
+  - I/O Port Access
+    - Hepsini Enabled yapın
+  - Secure Boot 
+    - Hepsini Disabled yapın
+- Startup
+  - UEFI/Legacy Boot = UEFI Only
+    - CSM Support = Yes
+  - Boot Mode = Quick
+  - 
+Yazmadığım Boot seçeneklerinin değiştirmenize gerek yok.
+
+
 ## Neler Çalışıyor
 
 - Turbo hızlandırma ve İşlemci Frekansı.
