@@ -37,8 +37,8 @@ Lenovo Thinkpad Yoga S1 için OpenCore config dosyası.
 
 ## BİOS Ayarları:
 
-- Bios Sürümü: GQET63WW (1.43)
-- Config
+- ### Bios Sürümü: GQET63WW (1.43)
+- ### Config
   - USB
     - USB UEFI BIOS Support = Enabled
     - Always On USB = Enabled
@@ -51,7 +51,7 @@ Lenovo Thinkpad Yoga S1 için OpenCore config dosyası.
     - Intel Hyper-Threading Technology = Enabled
   - Intel Smart Connect 
     - Disabled
-- Security
+- ### Security
   - Password
     - Hepsini Disabled yapın
   - Security Chip
@@ -60,11 +60,11 @@ Lenovo Thinkpad Yoga S1 için OpenCore config dosyası.
     - Hepsini Enabled yapın
   - Secure Boot 
     - Hepsini Disabled yapın
-- Startup
+- ### Startup
   - UEFI/Legacy Boot = UEFI Only
     - CSM Support = Yes
   - Boot Mode = Quick
-  - 
+
 Yazmadığım Boot seçeneklerinin değiştirmenize gerek yok.
 
 
