@@ -19,6 +19,12 @@ OpenCore config for Hackintosh OpenCore Lenovo Thinkpad Yoga S1.
 <summary>Big Sur</summary>
 
 ![](https://i.loli.net/2021/02/18/Kpv5x1JmXozOnPU.png)
+    
+<details>
+<summary>Mojave</summary>
+
+![](https://i.loli.net/2021/02/18/Kpv5x1JmXozOnPU.png)
+
 
 </details>
 
