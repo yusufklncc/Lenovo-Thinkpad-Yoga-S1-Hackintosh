@@ -19,11 +19,7 @@ OpenCore config for Hackintosh OpenCore Lenovo Thinkpad Yoga S1.
 <summary>Big Sur</summary>
 
 ![](https://github.com/relaxewdy/Lenovo-Thinkpad-Yoga-S1-Hackintosh/blob/main/BigSur.png)
-
-    <details>    
-    <summary>Mojave</summary>
-
-    ![](https://github.com/relaxewdy/Lenovo-Thinkpad-Yoga-S1-Hackintosh/blob/main/Mojave.png)
+![](https://github.com/relaxewdy/Lenovo-Thinkpad-Yoga-S1-Hackintosh/blob/main/Mojave.png)
 
 
 
