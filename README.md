@@ -55,7 +55,7 @@ OpenCore config for Hackintosh OpenCore Lenovo Thinkpad Yoga S1.
 |  Camera   |  ✅  |
 |  Shutdown / Reboot   |  ✅  |
 |  Fn shortcut keys   |  ✅  | 
-|  S3 Sleep / Wake   |  ⚠️  |
+|  S3 Sleep / Wake   |  ✅  |
 
 # What's not working ❌
 |                                 |                                    |
