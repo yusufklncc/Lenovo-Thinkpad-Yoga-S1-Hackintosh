@@ -57,14 +57,14 @@ OpenCore config for Hackintosh OpenCore Lenovo Thinkpad Yoga S1.
 |  Fn shortcut keys   |  ✅  | 
 |  S3 Sleep / Wake   |  ✅  |
 
-# What's not working ❌
+# What's not working?
 |                                 |                                    |
 | -----------------------------------  | -------- |
 |  Airdrop, Sidecar (Beacuse Intel Wi-Fi)   | ❌ |
 
-# What You Have to Do ⚠️
+# What You Have to Do?
 |                                 |                                    |
 | -----------------------------------  | -------- |
-|  SMBIOS Settings  |    |
+|  SMBIOS Settings  | ⚠️ |
  
 With OpenCore Configurator you should definitely set your SMBIOS settings because the config does not contain SMBIOS information MacBook Pro 11,1
