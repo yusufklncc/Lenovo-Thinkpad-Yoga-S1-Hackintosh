@@ -57,7 +57,7 @@ OpenCore config for Hackintosh OpenCore Lenovo Thinkpad Yoga S1.
 |  Fn shortcut keys   |  ✅  | 
 |  S3 Sleep / Wake   |  ⚠️  |
 
-# What's not working ⚠️
+# What's not working ❌
 |                                 |                                    |
 | -----------------------------------  | -------- |
 |  Airdrop, Sidecar (Beacuse Intel Wi-Fi)   | ❌ |
