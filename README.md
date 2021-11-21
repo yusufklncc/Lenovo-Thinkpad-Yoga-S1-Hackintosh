@@ -1,9 +1,5 @@
 <!-- omit in toc -->
-#  macOS on Lenovo Thinkpad Yoga S1
-
-<h3> 
-    English
-</h3>
+# macOS on Lenovo Thinkpad Yoga S1
 
 <img align="right" src="https://i.loli.net/2021/02/18/yip3eNsQWUZlFkd.png" width="400px" alt="preview">
 
