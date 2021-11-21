@@ -64,3 +64,8 @@ OpenCore config for Hackintosh OpenCore Lenovo Thinkpad Yoga S1.
 |  SMBIOS Settings  | ⚠️ |
  
 With OpenCore Configurator you should definitely set your SMBIOS settings because the config does not contain SMBIOS information MacBook Pro 11,1
+
+<h1 align="center"> Donate - Bağış </h1>
+<p align="center">
+  <img src="https://github.com/yusfklncc/yusfklncc/blob/main/Resources/Donate.png" width="500">
+<a href="https://github.com/yusfklncc/yusfklncc/blob/main/Donate%20-%20Ba%C4%9F%C4%B1%C5%9F.md">
