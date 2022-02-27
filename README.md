@@ -7,14 +7,14 @@ OpenCore config for Hackintosh OpenCore Lenovo Thinkpad Yoga S1.
 
 [![macOS](https://img.shields.io/badge/macOS-11.6.1-orange)](https://www.apple.com/tr/macos/big-sur/)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.7.4-9cf)](https://github.com/acidanthera/OpenCorePkg)
-[![release](https://img.shields.io/badge/download-lastest%20version-blue.svg)](https://github.com/relaxewdy/Lenovo-Yoga-S1-Hackintosh/releases)
+[![release](https://img.shields.io/badge/download-lastest%20version-blue.svg)](https://github.com/yusufklncc/Lenovo-Thinkpad-Yoga-S1-Hackintosh/releases)
 
 ## Screenshot
 <details>
 <summary>Big Sur & Mojave</summary>
 
-![](https://github.com/relaxewdy/Lenovo-Thinkpad-Yoga-S1-Hackintosh/blob/main/BigSur.png)
-![](https://github.com/relaxewdy/Lenovo-Thinkpad-Yoga-S1-Hackintosh/blob/main/Mojave.png)
+![](https://github.com/yusufklncc/Lenovo-Thinkpad-Yoga-S1-Hackintosh/blob/main/BigSur.png)
+![](https://github.com/yusufklncc/Lenovo-Thinkpad-Yoga-S1-Hackintosh/blob/main/Mojave.png)
 
 </details>
 
@@ -67,5 +67,5 @@ With OpenCore Configurator you should definitely set your SMBIOS settings becaus
 
 <h1 align="center"> Donate - Bağış </h1>
 <p align="center">
-<a href="https://github.com/yusfklncc/yusfklncc/blob/main/Donate%20-%20Ba%C4%9F%C4%B1%C5%9F.md">
-  <img src="https://github.com/yusfklncc/yusfklncc/blob/main/Resources/Donate.png" width="300">
+<a href="https://github.com/yusufklncc/yusufklncc/blob/main/Donate%20-%20Ba%C4%9F%C4%B1%C5%9F.md">
+  <img src="https://github.com/yusufklncc/yusufklncc/blob/main/Resources/Donate.png" width="300">
