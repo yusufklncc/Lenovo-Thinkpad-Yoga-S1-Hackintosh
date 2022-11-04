@@ -1,15 +1,34 @@
-<!-- omit in toc -->
-# macOS on Lenovo Thinkpad Yoga S1
+<h1 align="center"> macOS on Lenovo Thinkpad Yoga S1 </h1>
 
 <img align="center" src="https://github.com/yusufklncc/Lenovo-Thinkpad-Yoga-S1-Hackintosh/blob/main/macOS%20Lenobo%20Thinkpad%20Yoga%20S1.png">
 
-OpenCore config for Hackintosh OpenCore Lenovo Thinkpad Yoga S1.
+<h4 align="center"> OpenCore config for Hackintosh Lenovo Thinkpad Yoga S1 </h4>
 
-[![macOS](https://img.shields.io/badge/macOS-11.6.1-orange)](https://www.apple.com/tr/macos/big-sur/)
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.7.4-9cf)](https://github.com/acidanthera/OpenCorePkg)
-[![release](https://img.shields.io/badge/download-lastest%20version-blue.svg)](https://github.com/yusufklncc/Lenovo-Thinkpad-Yoga-S1-Hackintosh/releases)
+<p align="center">
+<a href="https://www.apple.com/macos/monterey/">
+  <img src="https://img.shields.io/badge/macOS-Ventura_v12.6-orange" width="215"/> </a>
+<a href="https://github.com/acidanthera/OpenCorePkg/releases">
+  <img src="https://img.shields.io/badge/OpenCore-0.8.5-9cf" width="155"/> </a>
+<a href="https://github.com/yusufklncc/Lenovo-Thinkpad-Yoga-S1-Hackintosh/releases">
+  <img src="https://img.shields.io/badge/release-EFI-blue.svg" width="115"/> </a>
+</p>
+<p align="center">
+<a href="https://t.me/yusufklncc">
+  <img src="https://img.shields.io/badge/-@yusufklncc-2CA5E0?logo=Telegram&logoColor=blue" width="150"/> </a>
+<a href="https://www.youtube.com/c/yusufklncc">
+  <img src="https://img.shields.io/badge/-@yusufklncc-lightgrey?logo=YouTube&logoColor=red" width="150"/> </a>
+<a href="https://www.paypal.com/paypalme/sevenpay">
+  <img src="https://img.shields.io/badge/-@sevenpay-2CA5E0?logo=PayPal&logoColor=red" width="140"/> </a>
 
-## Screenshot
+## Contents
+  - [Screenshots](https://github.com/yusufklncc/Lenovo-Thinkpad-Yoga-S1-Hackintosh#screenshot)
+  - [Original Hardware](https://github.com/yusufklncc/Lenovo-Thinkpad-E570-Hackintosh#original-hardware--)
+  - [macOS Update History](https://github.com/yusufklncc/Lenovo-Thinkpad-E570-Hackintosh#macos-update-history)
+  - [What's working](https://github.com/yusufklncc/Lenovo-Thinkpad-E570-Hackintosh#whats-working--)
+  - [What's not working]()
+  - [What's you have to do](https://github.com/yusufklncc/Lenovo-Thinkpad-E570-Hackintosh#whats-you-have-to-do--)
+
+## Screenshot 📷
 <details>
 <summary>Big Sur & Mojave</summary>
 
@@ -18,54 +37,68 @@ OpenCore config for Hackintosh OpenCore Lenovo Thinkpad Yoga S1.
 
 </details>
 
-<!-- omit in toc -->
-# Laptop's Hardware
+## Original Hardware  💻
 
-| **LENOVO** | Detail                                                  |
-| ------------------- | ------------------------------------------- |
-| Model Name      | Lenovo Thinkpad Yoga S1      |
-| CPU              | Intel(R) Core(TM) i7-4510U CPU @ 2.0GHz (max 3.10Ghz) Haswell             |
-| RAM           | 8 GB 2400 MHz DDR4    |
-| Internal Graphics Card | Intel® HD Graphics 4400                     |
-| Wi-Fi             | Intel Wireless 7260 |
-| Sound       | Conexant CX20751                       |
+Type | Spec | Status
+:---------|:---------|:----------
+Model Name      | Lenovo Thinkpad Yoga S1 | ✅
+CPU              | Intel(R) Core(TM) i7-4510U CPU @ 2.0GHz (max 3.10Ghz) Haswell | ✅
+RAM           | 8 GB 2400 MHz DDR4 | ✅
+Internal Graphics Card | Intel® HD Graphics 4400 | ✅
+Wi-Fi             | Intel Wireless 7260 | ✅
+Sound       | Conexant CX20751 | ✅
 
-# Update History
-- [x] macOS Big Sur 11.6.1
-- [x] macOS Big Sur 11.5.2
-- [x] macOS Big Sur 11.0.1
+## macOS Update History
 
-# What's Working?
-|                                 |                                    |
-| -----------------------------------  | -------- |
-|  Turbo boost and CPU frequency stage |  ✅  |
-|  Intel HD Graphics 4400              |  ✅  |
-|  Brightness control                  |  ✅  |
-|  Audio Conexant CX20751 (id:28)      |  ✅  |
-|  3.5mm Combojack                     |  ✅  |
-|  Intel 7260 Wi-Fi and Bluetooth, Handoff, iMessage...         |  ✅  |
-|  USB 3.0 (with Port Map)        |  ✅  |
-|  Touchpad (14 gestures are working)   |  ✅  |
-|  Touchscreen with gestures           |  ✅  |
-|  Battery status   |  ✅  |
-|  Camera   |  ✅  |
-|  Shutdown / Reboot   |  ✅  |
-|  Fn shortcut keys   |  ✅  | 
-|  S3 Sleep / Wake   |  ✅  |
+- ✅ macOS Monterey 12.6 
+- ✅ macOS Monterey 12.3
+- ✅ macOS Monterey 12.0.1
+- ✅ macOS Big Sur 11.6.1
+- ✅ macOS Big Sur 11.5.2
+- ✅ macOS Big Sur 11.0.1
 
-# What's not working?
-|                                 |                                    |
-| -----------------------------------  | -------- |
-|  Airdrop, Sidecar (Beacuse Intel Wi-Fi)   | ❌ |
+## What's working  💻
+  
+Type | Status
+:---------|:---------
+Turbo boost and CPU frequency stage |  ✅
+Intel HD Graphics 4400              |  ✅
+Brightness control                  |  ✅
+Audio Conexant CX20751 (id:28)      |  ✅
+3.5mm Combojack                     |  ✅
+Intel 7260 Wi-Fi and Bluetooth, Handoff, iMessage...         |  ✅
+USB 3.0 (with Port Map)        |  ✅
+Touchpad (14 gestures are working)   |  ✅
+Touchscreen with gestures           |  ✅
+Battery status   |  ✅
+Camera   |  ✅
+Shutdown / Reboot   |  ✅
+Fn shortcut keys   |  ✅
+S3 Sleep / Wake   |  ✅
 
-# What You Have to Do?
-|                                 |                                    |
-| -----------------------------------  | -------- |
-|  SMBIOS Settings  | ⚠️ |
- 
-With OpenCore Configurator you should definitely set your SMBIOS settings because the config does not contain SMBIOS information MacBook Pro 11,1
+## What's not working  💻
+  
+Type | Status
+:---------|:---------
+Airdrop, Sidecar (Beacuse Intel Wi-Fi)   | ❌
+
+## What You Have to Do?
+
+Type | Status
+:---------|:---------
+SMBIOS Settings  | ⚠️ 
+With OpenCore Configurator you should definitely set your SMBIOS settings because the config does not contain SMBIOS information MacBook Pro 11,1  | ⚠️
+
+## Credits
+  
+ - [Dortania](https://dortania.github.io) for developing OpenCore.
+ - [Apple](https://www.apple.com) for macOS.
+ - [Acidanthera](https://github.com/acidanthera) for most of the kexts.
+ - [RehabMan](https://github.com/RehabMan) for battery patches.
+ - [Sniki](https://github.com/Sniki) for USB kext.
+ - And anyone else that helped to develop and improve hackintoshing.
 
 <h1 align="center"> Donate - Bağış </h1>
 <p align="center">
-<a href="https://github.com/yusufklncc/yusufklncc/blob/main/Donate%20-%20Ba%C4%9F%C4%B1%C5%9F.md">
-  <img src="https://github.com/yusufklncc/yusufklncc/blob/main/Resources/Donate.png" width="300">
+<a href="https://github.com/yusufklncc/yusfklncc/blob/main/Donate%20-%20Ba%C4%9F%C4%B1%C5%9F.md">
+  <img src="https://github.com/yusufklncc/yusfklncc/blob/main/Resources/Donate.png" width="300">
