@@ -27,6 +27,7 @@
   - [What's working](https://github.com/yusufklncc/Lenovo-Thinkpad-Yoga-S1-Hackintosh#whats-working--)
   - [What's not working](https://github.com/yusufklncc/Lenovo-Thinkpad-Yoga-S1-Hackintosh#whats-not-working--)
   - [What's you have to do](https://github.com/yusufklncc/Lenovo-Thinkpad-Yoga-S1-Hackintosh#what-you-have-to-do)
+  - [Kexts Used](https://github.com/yusufklncc/Lenovo-Thinkpad-Yoga-S1-Hackintosh#kext-used)
   - [Credits](https://github.com/yusufklncc/Lenovo-Thinkpad-Yoga-S1-Hackintosh#credits)
   - [Donate](https://github.com/yusufklncc/Lenovo-Thinkpad-Yoga-S1-Hackintosh#-donate---ba%C4%9F%C4%B1%C5%9F-)
 
