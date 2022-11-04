@@ -1,7 +1,7 @@
 <!-- omit in toc -->
 # macOS on Lenovo Thinkpad Yoga S1
 
-<img align="center" src="https://github.com/yusufklncc/Lenovo-Thinkpad-Yoga-S1-Hackintosh/blob/main/macOS%20Lenovo%20Thinkpad%20Yoga%20S1.png">
+<img align="center" src="https://github.com/yusufklncc/Lenovo-Thinkpad-Yoga-S1-Hackintosh/blob/main/macOS%20Lenobo%20Thinkpad%20Yoga%20S1.png">
 
 OpenCore config for Hackintosh OpenCore Lenovo Thinkpad Yoga S1.
 
