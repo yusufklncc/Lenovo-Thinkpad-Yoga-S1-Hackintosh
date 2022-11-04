@@ -48,7 +48,7 @@ CPU              | Intel(R) Core(TM) i7-4510U CPU @ 2.0GHz (max 3.10Ghz) Haswell
 RAM           | 8 GB 2400 MHz DDR4 | ✅
 Internal Graphics Card | Intel® HD Graphics 4400 | ✅
 Wi-Fi             | Intel Wireless 7260 | ✅
-Sound       | Conexant CX20751 | ✅
+Audio       | Conexant CX20751 | ✅
 
 ## macOS Update History
 
