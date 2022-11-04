@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/-@sevenpay-2CA5E0?logo=PayPal&logoColor=red" width="140"/> </a>
 
 ## Contents
-  - [Screenshots](https://github.com/yusufklncc/Lenovo-Thinkpad-Yoga-S1-Hackintosh#screenshot)
+  - [Screenshots]https://github.com/yusufklncc/Lenovo-Thinkpad-Yoga-S1-Hackintosh#screenshot-)
   - [Original Hardware](https://github.com/yusufklncc/Lenovo-Thinkpad-Yoga-S1-Hackintosh#original-hardware--)
   - [macOS Update History](https://github.com/yusufklncc/Lenovo-Thinkpad-Yoga-S1-Hackintosh#macos-update-history)
   - [What's working](https://github.com/yusufklncc/Lenovo-Thinkpad-Yoga-S1-Hackintosh#whats-working--)
