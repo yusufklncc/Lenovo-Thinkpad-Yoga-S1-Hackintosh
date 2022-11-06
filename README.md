@@ -95,9 +95,9 @@ Type | Status
 SMBIOS Settings  | ⚠️ 
 With OpenCore Configurator you should definitely set your SMBIOS settings because the config does not contain SMBIOS information MacBook Pro 11,1  | ⚠️
 
-## Kext Used 
+## Kexts Used 
  
-Kext | Info 
+Name | Info 
 :---------|:---------
 [Lilu](https://github.com/acidanthera/Lilu) | An open source kernel extension bringing a platform for arbitrary kext, library, and program patching throughout the system for macOS.
 [VirtualSMC](https://github.com/acidanthera/VirtualSMC) | Advanced Apple SMC emulator in the kernel. Requires Lilu for full functioning.
@@ -122,7 +122,7 @@ Kext | Info
 
 ## SSDTs Used
   
-SSDT | Info | Status
+Name | Info | Status
 :---------|:---------|:---------
 [SSDT-EC.aml](https://dortania.github.io/Getting-Started-With-ACPI/Universal/ec-fix.html#fixing-embedded-controller-ssdt-ecusbx) | Adds a fake Embedded Controller (SSDT-EC). | [Functional]
 [SSDT-EXT1-FIXSHUTDOWN.aml](https://github.com/5T33Z0/OC-Little-Translated/blob/main/04_Fixing_Sleep_and_Wake_Issues/PTSWAK_Sleep_and_Wake_Fix/SSDT-EXT1-FixShutdown.dsl) | EXT1 Extension patch. Fixes the reboot problem after shutfown caused by the XHC Controller by setting XHC.PMEE to 0 when the parameter passed in _PTS is 5. This patch has the same effect as Clover's FixShutdown. Some Dell XPS and ThinkPads will require this patch. | [Functional]
