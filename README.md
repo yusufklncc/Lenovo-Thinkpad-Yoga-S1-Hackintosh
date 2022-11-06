@@ -24,7 +24,7 @@
 </p>
 <p align="center">
 <a href="https://www.buymeacoffee.com/yusufklncc">
-  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"/> </a>
+  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" width="140"/> </a>
 
 ## Contents
   - [Screenshots](https://github.com/yusufklncc/Lenovo-Thinkpad-Yoga-S1-Hackintosh#screenshot-)
