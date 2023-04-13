@@ -6,9 +6,9 @@
 
 <p align="center">
 <a href="https://www.apple.com/macos/monterey/">
-  <img src="https://img.shields.io/badge/macOS-Monterey_v12.6.3-purple" width="215"/> </a>
+  <img src="https://img.shields.io/badge/macOS-Ventura-orange" width="165"/> </a>
 <a href="https://github.com/acidanthera/OpenCorePkg/releases">
-  <img src="https://img.shields.io/badge/OpenCore-0.8.6-9cf" width="155"/> </a>
+  <img src="https://img.shields.io/badge/OpenCore-0.9.1-9cf" width="155"/> </a>
 <a href="https://github.com/yusufklncc/Lenovo-Thinkpad-Yoga-S1-Hackintosh/releases">
   <img src="https://img.shields.io/badge/release-EFI-blue.svg" width="115"/> </a>
 <a href="https://github.com/yusufklncc/Lenovo-Thinkpad-Yoga-S1-Hackintosh/issues"> 
