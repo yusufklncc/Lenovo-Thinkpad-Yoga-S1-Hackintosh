@@ -40,6 +40,7 @@
 <details>
 <summary>Big Sur & Mojave</summary>
 
+![](https://github.com/yusufklncc/Lenovo-Thinkpad-Yoga-S1-Hackintosh/blob/main/Ventura.png)
 ![](https://github.com/yusufklncc/Lenovo-Thinkpad-Yoga-S1-Hackintosh/blob/main/BigSur.png)
 ![](https://github.com/yusufklncc/Lenovo-Thinkpad-Yoga-S1-Hackintosh/blob/main/Mojave.png)
 
