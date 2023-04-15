@@ -57,6 +57,7 @@ Wi-Fi             | Intel Wireless 7260 | ✅
 Audio       | Conexant CX20751 | ✅
 
 ## macOS Update History
+- ✅ macOS Ventura 13.3.1
 - ✅ macOS Monterey 12.6.3
 - ✅ macOS Monterey 12.6
 - ✅ macOS Monterey 12.3
@@ -81,19 +82,17 @@ Battery status   |  ✅
 Camera   |  ✅
 Shutdown / Reboot   |  ✅
 Fn shortcut keys   |  ✅
-Sleep   |  ✅
+Sleep/Wake   |  ✅
 
 ## What's not working  💻
 Type | Status
 :---------|:---------
 Airdrop, Sidecar (Beacuse Intel Wi-Fi)   | ❌
-The awakening is not working properly. | ⚠️
-
 
 ## What You Have to Do?
 Type | | Status
 :---------|:---------:|---------
-SMBIOS Settings  | MacBook Pro 11,5 | ⚠️
+SMBIOS Settings  | MacBook Pro 11,1 | ⚠️
 
 ## Kexts Used
 Name | Info
